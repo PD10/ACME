@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Available_for_Project__c</fullName>
+    <defaultValue>false</defaultValue>
+    <description>Is Employee Available for any project or not.</description>
+    <externalId>false</externalId>
+    <label>Available for Project</label>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>
